@@ -1,0 +1,16 @@
+*User presses the button*
+
+ReSpeaker: Welcome to x.factory. Who are you here to see?
+
+Guest: I am here to see <employee>.
+
+ReSpeaker: Thank you. What is your name?
+
+Guest: My name is <guest>.
+
+ReSpeaker: Thank you. I will send them a message.
+
+*The device sends a message to the employee*
+
+Message: Hello, <employee>. <guest> is here to see you. Please meet them at the door.
+
